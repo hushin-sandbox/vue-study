@@ -1,5 +1,11 @@
 # starter
 
+```
+vue init nuxt-community/starter-template starter
+# https://github.com/nuxt-community/modules/tree/master/packages/vuetify
+npm i -S @nuxtjs/vuetify
+```
+
 > Nuxt.js project
 
 ## Build Setup

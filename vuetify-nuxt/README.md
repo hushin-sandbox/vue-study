@@ -2,6 +2,8 @@
 
 > Nuxt.js + Vuetify.js project
 
+https://github.com/vuetifyjs/nuxt
+
 ## Build Setup
 
 ``` bash
